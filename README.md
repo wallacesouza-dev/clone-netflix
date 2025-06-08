@@ -17,6 +17,7 @@ Este é um projeto simples que replica a tela inicial da Netflix com perfis e um
 2.   Abra o arquivo index.html no seu navegador.
 
 Tecnologias usadas
+
 HTML5
 
 CSS3
